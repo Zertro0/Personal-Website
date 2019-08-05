@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/cssfamily=Darker+Grotesque&display=swap');
+*{
+  margin: 20px;
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 20px;
+
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+body {
+/* W3C */
+background: linear-gradient(top, #ff3232 0%,#fcf528 16%,#28fc28 32%,#28fcf8 50%,#272ef9 66%,#ff28fb 82%,#ff3232 100%);
+
+/* Firefox */
+background: -moz-linear-gradient(top, #ff3232 0%, #fcf528 16%, #28fc28 32%, #28fcf8 50%, #272ef9 66%, #ff28fb 82%, #ff3232 100%);
+
+/* Chrome,Safari4+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff3232), color-stop(16%,#fcf528), color-stop(32%,#28fc28), color-stop(50%,#28fcf8), color-stop(66%,#272ef9), color-stop(82%,#ff28fb), color-stop(100%,#ff3232));
+
+/* Chrome10+,Safari5.1+ */
+background: -webkit-linear-gradient(top, #ff3232 0%,#fcf528 16%,#28fc28 32%,#28fcf8 50%,#272ef9 66%,#ff28fb 82%,#ff3232 100%);
+
+}
+
+/* #hera{
+  width:500px;
+  height: 400px;
+  align: center;
+} */
